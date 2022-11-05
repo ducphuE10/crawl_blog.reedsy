@@ -1,0 +1,4 @@
+*.csv
+main.py
+test_bs4.py
+test_bs4.ipynb
